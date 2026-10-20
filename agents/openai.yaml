@@ -1,0 +1,6 @@
+interface:
+  display_name: "SEEK Job Search"
+  short_description: "Score recent SEEK jobs and manage approved applications"
+  default_prompt: "Use $seek-job-search with my Jobs folder to review recent vacancies and prepare approved applications."
+policy:
+  allow_implicit_invocation: true
